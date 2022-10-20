@@ -22,7 +22,7 @@
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": "5769997590:AAHN-k0_gGydh5vGNDEV1V5Dhgg2jX84na4"
+            "value": "5429387523:AAE5Io8Xj_CxMX7zHTw5EXOc87NslGnR3PA"
         },
         "AUTH_USERS": {
             "description": "Bot owner's UserID.",
@@ -30,12 +30,12 @@
         },
         "HEROKU_API": {
             "description": "Your heroku app name(optional, add only if you want to restart directly from tg.",
-            "value": "0cae82f8-cf7b-4951-b48e-fd8b766c5052",
+            "value": "b259ae92-a2ac-41fa-9e52-6394bfd0bf88",
             "required": false
         },
         "HEROKU_APP_NAME": {
             "description": "Your heroku api, you can get it from heroku account settings(optional, add only if you want to restart directly from tg.",
-            "value": "reneme",
+            "value": "zrenamem",
             "required": false
         },
         "LOG_CHANNEL": {
@@ -48,7 +48,7 @@
         },
         "ACCESS_CHANNEL": {
             "description": "Private group id to spy users.(Should be public group)",
-            "value": "1888770529"
+            "value": "885221875"
         },
         "MONGODB_URI": {
             "description": "Your mongodb url here.",
@@ -56,15 +56,15 @@
         },
         "FORCESUB": {
             "description": "Channel id to which u want user be force subcribed.(Should be public)",
-            "value": "1523920678"
+            "value": "1378400535"
         },
         "FORCESUB_UN": {
             "description": "Forcesub channel's username.",
-            "value": "@Alibaba_serial_1"
+            "value": "@Telly_Botz"
         },
         "BOT_UN": {
             "description": "Username of your bot.",
-            "value": "@Restart091bot"
+            "value": "@Tellyrenameobot"
         }
     },
     "buildpacks": [
